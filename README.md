@@ -7,7 +7,7 @@ The following code show how to use an Arduino UNO with the GPRS+GPS(SIM900) shie
 This example also serves to help other developers who are facing the same problem or a similar problem with Gprs SIM900 and Gps NEO-6M working together.
 
 ![](https://github.com/robsonfagundes/Arduino-GprsSIM900andGpsNEO-6M/blob/master/images/SIM900.jpg "Gprs SIM900")
-![](https://github.com/robsonfagundes/Arduino-GprsSIM900andGpsNEO-6M/blob/master/images/NEO-6M.jpg "Gps NEO-6M")
+![](https://github.com/robsonfagundes/Arduino-GprsSIM900andGpsNEO-6M/blob/master/images/NEO-6M.png "Gps NEO-6M")
 
 This code is the resolution for the issues that I made in stackoverflow:
 - http://arduino.stackexchange.com/questions/22149/solved-gprs-sim900-and-gps-neo-6m-dont-work-together
